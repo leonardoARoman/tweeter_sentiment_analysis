@@ -9,10 +9,10 @@ SPARK DEPENDENCIES CONF:
 CONNECTION TO TWITTER API:
 	1. Create a twitter API at: apps.twitter.com use local host 127.0.0.1 if no Web-site
 	2. Copy all arguments required for application and connection:
-		1. Customer Key:					08ofzehPiIdqK6aMHB6PocQPh
-		2. Consumer Secret:				kwbWcdYbuIKH73u52qcrVqc01MCNhsevbqdhScJm4k4YTljUMj
-		3. Access Token:					234043642-3EvyPTJ2SFQXFo6KntLOZJ53tPtXtUqDci3iwAJ3
-		4. Access Token Secret: 			dImgV4cfEHljMrd45H6vqqsDllc2GE2zIkBsR6rxadu72
+		1. Customer Key:					
+		2. Consumer Secret:				
+		3. Access Token:					
+		4. Access Token Secret: 			
 	3. Test arguments by passing the arguments.
 		1. Click Run Arrow 
 		2. Click Run Configurations
@@ -21,12 +21,12 @@ CONNECTION TO TWITTER API:
 				
 REFERENCES:
 	1. Youtube tutorials:
-		0. Spark dependencies:			https://www.youtube.com/watch?v=KwSwkAHXtxQ&t=0s&index=3&list=LLXkigSNFU37bd6CYSksK6vw
-		1. Setting twitter api:			https://www.youtube.com/watch?v=1GixYso8Az4&index=30&list=WL&t=0s
+		0. Spark dependencies:		https://www.youtube.com/watch?v=KwSwkAHXtxQ&t=0s&index=3&list=LLXkigSNFU37bd6CYSksK6vw
+		1. Setting twitter api:		https://www.youtube.com/watch?v=1GixYso8Az4&index=30&list=WL&t=0s
 		2. Apache Kafka introduction: 	https://www.youtube.com/watch?v=udnX21__SuU
 	2. Web-sites:
-		1. Apache Spark 2.3.0:			https://spark.apache.org/docs/latest/streaming-programming-guide.html
-		2. spark-streaming-twitter:		https://mvnrepository.com/artifact/org.apache.bahir/spark-streaming-twitter_2.11/2.0.1
-										https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/streaming
+		1. Apache Spark 2.3.0:		https://spark.apache.org/docs/latest/streaming-programming-guide.html
+		2. spark-streaming-twitter:	https://mvnrepository.com/artifact/org.apache.bahir/spark-streaming-twitter_2.11/2.0.1
+						https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/streaming
 		3. 
 			
