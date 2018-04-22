@@ -28,5 +28,5 @@ REFERENCES:
 		1. Apache Spark 2.3.0:			https://spark.apache.org/docs/latest/streaming-programming-guide.html
 		2. spark-streaming-twitter:		https://mvnrepository.com/artifact/org.apache.bahir/spark-streaming-twitter_2.11/2.0.1
 										https://github.com/apache/spark/tree/master/examples/src/main/scala/org/apache/spark/examples/streaming
-		3. 
+		3. Spark Project SQL:			https://mvnrepository.com/artifact/org.apache.spark/spark-sql
 			
